@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.bg {
+  background-image: url(background\ old\ roblox.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10%;
+}
+
+.table {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} 
+
+table{
+  border-spacing: 10px;
+}
+
+th,td{
+  border-collapse: ;
+  padding: 0px;
+  background-color: aliceblue;
+  color:black 
+  font-size: 5px 
+}
+
+th {
+  font-size: 
+}
+
